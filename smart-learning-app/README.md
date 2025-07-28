@@ -1,0 +1,1 @@
+This is the full Smart Learning App with working PHP and MySQL structure.
